@@ -10,7 +10,10 @@ chmod +x script.sh
 
 # Check installation 
 
-terraform version
-helm version
-kubectl version
-az --version
+> terraform version
+
+> helm version
+
+> kubectl version
+
+> az --version
